@@ -1,5 +1,5 @@
 
- [![Hyun-Hyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Hyee0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+ [![Hyun-Hyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-Hyee&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
 <br>
 
