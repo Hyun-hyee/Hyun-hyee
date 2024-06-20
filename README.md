@@ -22,4 +22,10 @@
     </a>
 </div><br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyun-hyee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-hyee&show_icons=true&theme=dracula) 
+
 </div>
+
+
